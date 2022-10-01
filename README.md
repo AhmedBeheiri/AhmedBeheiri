@@ -18,7 +18,7 @@
 - :school: I am a `Senior Mobile Developer` at [ZumraFood](https://www.zumrafood.com/en)
 - :technologist: I love coding with `Flutter`-`Android`-`IOS`-`React Native`-`KMM`
 - :student: I’m currently learning: `Ktor` and `Software Engineering`.
-- :thinking: this is [MY RESUME](https://drive.google.com/file/d/1CsAud8tqdv67zshGLVXFstb2OlJRN6jP/view?usp=sharing).
+- :thinking: this is [MY RESUME](https://drive.google.com/file/d/1DBVxL2vyLdnTARC5_5WUfFsTGsPdMH2J/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
